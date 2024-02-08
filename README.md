@@ -1,5 +1,8 @@
 # Digipedia
 
+![Digipedia Screenshot](Digipedia.png)
+
+
 ## Web application similar to Wikipedia
 
 The Digipedia project was created at the faculty as a project for construction exercises in the subject **Server-Side Web Programming** and **Scripting Programming Languages**.
